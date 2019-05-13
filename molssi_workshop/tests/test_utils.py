@@ -4,4 +4,7 @@ import pytest
 
 def test_title_case():
     """test the title case function"""
-    assert title_case('hello world!') == 'Hello World!'
+    assert molssi_workshop.title_case('hello world!') == 'Hello World! '
+
+def test_type_error():
+    pass 
