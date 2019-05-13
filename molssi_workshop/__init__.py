@@ -5,6 +5,7 @@ A package developed in the MolSSI workshop to do... math
 
 # Add imports here
 from .molssi_math import *
+from .utils import title_case
 
 # Handle versioneer
 from ._version import get_versions
