@@ -7,9 +7,14 @@ molssi_workshop
 
 A package developed in the MolSSI workshop to do... math
 
+
+This repository is currently under developent. To do  developmental install, download this repository and type:
+
+`pip install molssi_workshop`
+
 ### Copyright
 
-Copyright (c) 2019, Yeet
+Copyright (c) 2019, Theodore Fobe
 
 
 #### Acknowledgements
